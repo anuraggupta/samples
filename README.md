@@ -6,7 +6,7 @@ In this repository you can find the various samples I reference in my blog (http
 sample-continuation
 -------------------
 
-This is a simple demonstration of the Apache CXF Continuation API. See: http://www.clempinch.com/cxf-and-the-continuation-api/
+This is a simple demonstration of the Apache CXF Continuations API. See: http://www.clempinch.com/async-rest-cxf-and-the-continuations-api/
 
 The project should be built with Maven:
 
